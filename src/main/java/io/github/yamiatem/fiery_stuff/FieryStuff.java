@@ -3,8 +3,8 @@ package io.github.yamiatem.fiery_stuff;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import io.github.yamiatem.fiery_stuff.core.item.fiery_ingot.FieryIngotInit;
-import io.github.yamiatem.fiery_stuff.core.item.fiery_pick.FieryPickInit;
+import io.github.yamiatem.fiery_stuff.core.items.fiery_ingot.FieryIngotInit;
+import io.github.yamiatem.fiery_stuff.core.items.fiery_pick.FieryPickInit;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;

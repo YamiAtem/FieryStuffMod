@@ -1,4 +1,4 @@
-package io.github.yamiatem.fiery_stuff.core.item.fiery_pick;
+package io.github.yamiatem.fiery_stuff.core.items.fiery_pick;
 
 import io.github.yamiatem.fiery_stuff.FieryStuff;
 import net.minecraft.item.Item;

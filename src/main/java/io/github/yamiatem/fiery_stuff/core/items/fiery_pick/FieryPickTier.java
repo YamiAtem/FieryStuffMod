@@ -1,6 +1,6 @@
-package io.github.yamiatem.fiery_stuff.core.item.fiery_pick;
+package io.github.yamiatem.fiery_stuff.core.items.fiery_pick;
 
-import io.github.yamiatem.fiery_stuff.core.item.fiery_ingot.FieryIngotInit;
+import io.github.yamiatem.fiery_stuff.core.items.fiery_ingot.FieryIngotInit;
 import net.minecraft.item.IItemTier;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.crafting.Ingredient;
