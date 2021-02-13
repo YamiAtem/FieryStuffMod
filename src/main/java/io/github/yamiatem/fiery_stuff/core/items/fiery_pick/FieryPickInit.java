@@ -14,5 +14,5 @@ public class FieryPickInit {
 
 	public static final RegistryObject<PickaxeItem> FIERY_PICK = ITEMS.register("fiery_pick",
 			() -> new PickaxeItem(new FieryPickTier(), 0, 0,
-					new Item.Properties().maxStackSize(1).group(ItemGroup.MISC)));
+					new Item.Properties().maxStackSize(1).group(ItemGroup.TOOLS)));
 }
