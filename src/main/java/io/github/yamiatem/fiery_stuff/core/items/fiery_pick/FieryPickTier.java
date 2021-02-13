@@ -8,7 +8,7 @@ import net.minecraft.item.crafting.Ingredient;
 public class FieryPickTier implements IItemTier {
 	@Override
 	public int getMaxUses() {
-		return 1000;
+		return 2031;
 	}
 
 	@Override
@@ -18,12 +18,12 @@ public class FieryPickTier implements IItemTier {
 
 	@Override
 	public float getAttackDamage() {
-		return 10;
+		return 6;
 	}
 
 	@Override
 	public int getHarvestLevel() {
-		return 3;
+		return 5;
 	}
 
 	@Override
